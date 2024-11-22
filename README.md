@@ -1,6 +1,6 @@
 Hi there! 👋
 
-🎓 Aspiring Full Stack Web Developer
+🎓 Aspiring Full Stack Web Developer 
 📚 BCA Student
 💻 Currently working on Development Projects and DSA
 ✨ Passionate about Competitive Coding and Problem-Solving
