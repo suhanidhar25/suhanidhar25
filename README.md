@@ -1,22 +1,11 @@
-Hi there! 👋
+👋 Hi there! I’m Suhani  
+💻 Aspiring Full Stack Web Developer | 🌱 Currently honing my skills 
+📚 **BCA Student** passionate about crafting sleek, user-friendly web experiences.  
+⚡ Love solving **DSA challenges** and building innovative **web projects**.  
 
-🎓 Aspiring Full Stack Web Developer
+👨‍💻 **Tech Stack:** HTML | CSS | Bootstrap | JavaScript | Python | Java | C  
+🔗 **Tools :** Git | GitHub  | VS Code
 
-📚 BCA Student
-
-💻 Currently working on Development Projects and DSA
-
-✨ Passionate about Competitive Coding and Problem-Solving
-
-🌱 Always eager to learn and grow as a developer
-
-📌 Looking to collaborate on exciting web development and coding challenges
-
-Skills :-
-
-Languages: HTML, CSS, JavaScript, Java , Python, C
-
-Frameworks : Bootstrap, React.JS
-
-Tools & Platforms: Git, GitHub, VS Code
+🎯 On a mission to contribute to impactful open-source projects and collaborate with like-minded developers.  
+✨ Always exploring **new tools** and **frameworks** to level up!  
 
