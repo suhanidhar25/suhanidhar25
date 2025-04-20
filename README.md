@@ -31,7 +31,7 @@ Always curious, always coding. 🌱
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanidhar25&show_icons=true&theme=dracula&hide_border=true" alt="Suhani's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanidhar25&theme=dracula&hide_border=true" alt="Suhani's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanidhar25&layout=compact&theme=dracula&hide_border=true" alt="Suhani's Top Languages" />
