@@ -1,5 +1,5 @@
-<h2 align="center">Hi there! 👋 I’m Suhani</h2>
-<p align="center">💻 Aspiring Full Stack Web Developer | 📚 BCA Student | 🌐 DSA & Web Dev Enthusiast</p>
+<h2 align="left">Hi there! 👋 I’m Suhani</h2>
+<p align="left">💻 Aspiring Full Stack Web Developer | 📚 BCA Student | 🌐 DSA & Web Dev Enthusiast</p>
 
 ---
 
@@ -29,15 +29,3 @@ Always curious, always coding. 🌱
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-### 🔥 GitHub Stats:
-
-```text
-📊 Suhani's GitHub Stats:
--------------------------
-⭐ Total Stars Earned:       0  
-🛠️ Total Commits (2025):     48  
-🔁 Total PRs:                0  
-🐞 Total Issues:             0  
-📅 Contributed (last year):  1  
