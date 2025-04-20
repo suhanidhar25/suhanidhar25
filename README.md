@@ -29,3 +29,22 @@ Always curious, always coding. 🌱
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhanidhar25&show_icons=true&theme=dracula&hide_border=true" alt="Suhani's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanidhar25&theme=dracula&hide_border=true" alt="Suhani's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanidhar25&layout=compact&theme=dracula&hide_border=true" alt="Suhani's Top Languages" />
+</p>
+
+---
+
+### ✨ Let's Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhani-dhar-b15909265)
+
+---
+
+*Thanks for stopping by! Let’s build something amazing together.* 💖
+Feel free to customize the themes and layouts of the G
+
