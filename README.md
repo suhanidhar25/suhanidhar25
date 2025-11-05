@@ -1,7 +1,8 @@
 <h2 align="left">Hi there! 👋 I’m Suhani</h2>
 <p align="left">💻 Aspiring Full Stack Web Developer | 📚 BCA Student | 🌐 DSA & Web Dev Enthusiast</p>
 
-https://komarev.com/ghpvc/?username=suhanidhar25&label=Profile%20Views&color=0e75b6&style=flat-square
+![Profile Views](https://komarev.com/ghpvc/?username=suhanidhar25&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 🌟 About Me  
